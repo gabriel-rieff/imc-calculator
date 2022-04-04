@@ -1,4 +1,4 @@
-<h1 align="center">IMC calculator</h1>
+<h1 align="center">BMI calculator</h1>
 
 <h1  align="center">
 <img radius="10px" width="450px" src="./images/Animação.gif" alt="GIF that shows the project running">
